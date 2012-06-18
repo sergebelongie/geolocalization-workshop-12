@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: eccv2012submission.aux
+The style file: plain.bst
+Database file #1: ECCV_bib.bib
+A bad cross reference---entry "Xiao10"
+refers to entry "DBLP:conf/cvpr/2010", which doesn't exist
+A bad cross reference---entry "Schindler07"
+refers to entry "DBLP:conf/cvpr/2007", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/2007"
+Warning--I didn't find a database entry for "DBLP:conf/cvpr/2010"
+(There were 2 error messages)

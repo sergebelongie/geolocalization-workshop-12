@@ -1,0 +1,212 @@
+% This file was created with JabRef 2.7.2.
+% Encoding: Cp1252
+
+@INPROCEEDINGS{Agarwal09,
+  author = {Sameer Agarwal and Noah Snavely and Ian Simon and Steven M. Seitz
+	and Richard Szeliski},
+  title = {Building Rome in a day},
+  booktitle = {ICCV},
+  year = {2009},
+  pages = {72-79},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/iccv/2009},
+  ee = {http://dx.doi.org/10.1109/ICCV.2009.5459148},
+  owner = {tsungyi},
+  timestamp = {2012.06.11}
+}
+
+@INPROCEEDINGS{Sattler11,
+  author = {Sattler, Torsten and Leibe, Bastian and Kobbelt, Leif},
+  title = {Fast image-based localization using direct 2D-to-3D matching.},
+  booktitle = {ICCV},
+  year = {2011@INPROCEEDINGS{Irschara09fromstructure-from-motion,
+	
+	    author = {Arnold Irschara and Christopher Zach and Jan-michael
+	Frahm and Horst Bischof},
+	
+	    title = {From structure-from-motion point clouds to fast location
+	recognition},
+	
+	    booktitle = {In IEEE Conference on Computer Vision and Pattern
+	Recognition (CVPR},
+	
+	    year = {2009},
+	
+	    pages = {2599--2606}
+	
+	}},
+  editor = {Metaxas, Dimitris N. and Quan, Long and Sanfeliu, Alberto and Gool,
+	Luc J. Van},
+  pages = {667-674},
+  publisher = {IEEE},
+  added-at = {2012-01-19T00:00:00.000+0100},
+  biburl = {http://www.bibsonomy.org/bibtex/2e89aa5ea380573ca11b77de17909338e/dblp},
+  crossref = {conf/iccv/2011},
+  ee = {http://dx.doi.org/10.1109/ICCV.2011.6126302},
+  interhash = {9778b131b193043c8e204eb696102644},
+  intrahash = {e89aa5ea380573ca11b77de17909338e},
+  isbn = {978-1-4577-1101-5},
+  keywords = {dblp},
+  owner = {tsungyi},
+  timestamp = {2012-01-19T00:00:00.000+0100},
+  url = {http://dblp.uni-trier.de/db/conf/iccv/iccv2011.html#SattlerLK11}
+}
+
+@INPROCEEDINGS{Schindler07,
+  author = {Grant Schindler and Matthew Brown and Richard Szeliski},
+  title = {City-Scale Location Recognition},
+  booktitle = {CVPR},
+  year = {2007},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/cvpr/2007},
+  ee = {http://dx.doi.org/10.1109/CVPR.2007.383150},
+  owner = {tsungyi},
+  timestamp = {2012.06.11}
+}
+
+@INPROCEEDINGS{Xiao10,
+  author = {Jianxiong Xiao and James Hays and Krista A. Ehinger and Aude Oliva
+	and Antonio Torralba},
+  title = {SUN database: Large-scale scene recognition from abbey to zoo},
+  booktitle = {CVPR},
+  year = {2010},
+  pages = {3485-3492},
+  bibsource = {DBLP, http://dblp.uni-trier.de},
+  crossref = {DBLP:conf/cvpr/2010},
+  ee = {http://dx.doi.org/10.1109/CVPR.2010.5539970},
+  owner = {tsungyi},
+  timestamp = {2012.06.11}
+}
+
+@INPROCEEDINGS{Bansal11,
+  author = {Bansal, Mayank and Sawhney, Harpreet S. and Cheng, Hui and Daniilidis,
+	Kostas},
+  title = {Geo-localization of street views with aerial image databases},
+  booktitle = {Proceedings of the 19th ACM international conference on Multimedia},
+  year = {2011},
+  series = {MM '11},
+  pages = {1125--1128},
+  address = {New York, NY, USA},
+  publisher = {ACM},
+  acmid = {2071954},
+  doi = {10.1145/2072298.2071954},
+  isbn = {978-1-4503-0616-4},
+  keywords = {aerial view, air-ground matching, geo-localization, self-similarity,
+	street view},
+  location = {Scottsdale, Arizona, USA},
+  numpages = {4},
+  owner = {tsungyi},
+  timestamp = {2012.06.11},
+  url = {http://doi.acm.org/10.1145/2072298.2071954}
+}
+
+@CONFERENCE{Crandall09,
+  author = {Crandall, D. J. and Backstrom, L. and Huttenlocher, D. and Kleinberg,
+	J.},
+  title = {Mapping the World's Photos},
+  booktitle = {WWW},
+  year = {2009}
+}
+
+@CONFERENCE{Hays08,
+  author = {J. Hays and A. Efros},
+  title = {IM2GPS: estimating geographic information from a single image},
+  booktitle = {CVPR},
+  year = {2008}
+}
+
+@INPROCEEDINGS{Irschara09,
+  author = {Arnold Irschara and Christopher Zach and Jan-michael Frahm and Horst
+	Bischof},
+  title = {From structure-from-motion point clouds to fast location recognition},
+  booktitle = {In IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2009},
+  pages = {2599--2606},
+  owner = {tsungyi},
+  timestamp = {2012.06.11}
+}
+
+@CONFERENCE{Li08,
+  author = {X. Li and C. Wu and C. Zach and S. Lazebnik and J. Frahm},
+  title = {Modeling and Recognition of Landmark Image Collections Using Iconic
+	Scene Graphs},
+  booktitle = {ECCV},
+  year = {2008}
+}
+
+@INPROCEEDINGS{Li10,
+  author = {Li, Yunpeng and Snavely, Noah and Huttenlocher, Daniel P.},
+  title = {Location recognition using prioritized feature matching},
+  booktitle = {Proceedings of the 11th European conference on Computer vision: Part
+	II},
+  year = {2010},
+  series = {ECCV'10},
+  pages = {791--804},
+  address = {Berlin, Heidelberg},
+  publisher = {Springer-Verlag},
+  acmid = {1888088},
+  isbn = {3-642-15551-0, 978-3-642-15551-2},
+  keywords = {image matching, image registration, location recognition, structure
+	from motion},
+  location = {Heraklion, Crete, Greece},
+  numpages = {14},
+  owner = {tsungyi},
+  timestamp = {2012.06.11},
+  url = {http://dl.acm.org/citation.cfm?id=1888028.1888088}
+}
+
+@CONFERENCE{Liu08,
+  author = {Liu, Ce and Yuen, Jenny and Torralba, Antonio and Sivic, Josef and
+	Freeman, William T.},
+  title = {SIFT Flow: Dense Correspondence across Scenes and Its Applications},
+  booktitle = {ECCV},
+  year = {2008}
+}
+
+@CONFERENCE{Lowe99,
+  author = {D. G. Lowe},
+  title = {Object recognition from local scale-invariant features},
+  booktitle = {ICCV},
+  year = {1999}
+}
+
+@ARTICLE{Oliva01,
+  author = {A. Oliva and A. Torralba},
+  title = {Modeling the shape of the scene: a holistic representation of the
+	spatial envelope},
+  journal = {IJCV},
+  year = {2001}
+}
+
+@CONFERENCE{Schindler08,
+  author = {G. Schindler and P. Krishnamurthy and R. Lublinerman and Y. Liu and
+	F. Dellaert},
+  title = {Detecting and Matching Repeated Patterns for Automatic Geo-tagging
+	in Urban Environments},
+  booktitle = {CVPR},
+  year = {2008}
+}
+
+@ARTICLE{Torralba08,
+  author = {A. Torralba and R. Fergus and W. T. Freeman},
+  title = {80 Million Tiny Images: A Large Data Set for Nonparametric Object
+	and Scene Recognition},
+  journal = {PAMI},
+  year = {2008}
+}
+
+@CONFERENCE{RoshanZamir10,
+  author = {A. Roshan Zamir and M. Shah},
+  title = {Accurate Image Localization Based on Google Maps Street View},
+  booktitle = {ECCV},
+  year = {2010}
+}
+
+@CONFERENCE{Zheng09,
+  author = {Y. Zheng and M. Zhao and Y. Song and H. Adam and U. Buddemeier and
+	A. Bissacco and F. Brucher and T. Chua and H. Neven and J. Yagnik},
+  title = {Tour the World: building a web-scale landmark recognition engine},
+  booktitle = {CVPR},
+  year = {2009}
+}
+

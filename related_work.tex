@@ -1,0 +1,62 @@
+\section{Related Works}
+
+\label{sec:related_work}
+
+% ==================First Paragraph================================== What drives the geolocation and go to where
+% Current approach is driven by existed dataset
+% IM2GPS dataset : performance, Mapping the World's photo, photo tourism
+% build rome in one day type dataset : performance
+% property shared among the dataset is: to get the accurate performance, the query and testing image should be within the similar condition
+% still there are other resources on the internet which has the wide coverage but has not been discussed yet
+
+% LOCAL DESCRIPTOR:
+% build rome																														Agarwal09
+% City-Scale Location Recognition																				Schindler07
+% Detecting and Matching Repeated Patterns for Automatic Geo-tagging in Urban Environments	Schindler08
+% From structure-from-motion point clouds to fast location recognition	Irschara09
+% Location recognition using prioritized feature matching								Li2010				Cornell dataset
+% Fast Image-Based Localization using Direct 2D-to-3D Matching					Sattler11
+% Accurate Image Localization Based on Google Maps Street View					RoshanZamir10				Street View dataset
+% Modeling and Recognition of Landmark Image Collections Using Iconic Scene Graphs		Li08
+
+
+% HOLISTIC FEATURE:
+% IM2GPS Hays08								Hays08
+% Tiny Image									Torralba08
+% Mapping the World's Photo		Crandall09
+% SUN attribute								Xiao10
+
+% Tour the World: building a web-scale landmark recognition engine	Zheng09
+
+% Feature
+% Modeling the shape of the scene: a holistic representation of the spatial envelope	Oliva01
+% Lowe	Lowe99
+
+% ==================Second Paragraph==================================
+% Introduce the dataset: setting, why do we need this kind of techniques, expected result, challenge
+
+% Geo-localization of street views with aerial image databases
+% Related work 				Bansal11
+
+% ==================Third Paragraph==================================
+% The hope and the future work of GLAID
+
+% ==================Third Paragraph==================================
+% Content and emphasis for each section
+
+
+Local:
+Location Recognition using prioritized feature matching
+- P2F: set the number of uniquely matched feature to be N
+Accurate Image Localization Based on Google Maps Street View
+- voting
+City-Scale Location Recognition
+- vocabulary tree on SIFT
+
+%The problem of geographically localizing an image presents a wide array of challenges in computer vision and machine learning.  To answer the question ``where was this photo taken?''~when GPS data is not available, one can appeal to a variety of publicly available geotagged images on the Internet, e.g., photo sharing websites, street view services, satellite and aerial imagery. The problem of matching and retrieving images captured \emph{within-condition} using nearest neighbor on semi-local descriptors is well studied.  The same problem is considerably more difficult for the case of cross-condition image matching, e.g., in which there are significant differences in the noise level, blur, or illumination between a given pair of images; see Fig.~\ref{dataset-b}. The mismatch of features can severely degrade the accuracy of nearest neighbor methods. A solution to the problem of cross-condition matching is therefore key to leveraging the vast and diverse array of geotagged image data available on the Internet.
+
+%To address this problem, we propose a human-in-the-loop, active learning framework. We leverage the relative ease with which a human observer can establish correspondences between categorically similar local image regions corresponding to meaningful architectural or landscape primitives such as window pane, chimney or shrub. First, the user is asked to select a few distinctive regions of interest in the query (ground level) image. Then the user is asked to label some patches with similar or dissimilar appearance in the aerial image.  Given this data, we learn a metric space wherein the extracted features from the two images are directly comparable.  To reduce the human labeling effort and improve the accuracy of the computer vision method, the proposed system alternates between computer vision processing and requesting user feedback. During this process, the system intelligently selects the instances with highest expected information gain for labeling. This active learning framework iteratively improves the metric, thereby allowing the system to find the genuine location with reduced human effort.
+
+%This paper is organized as follows. The next section reviews related work.  Section \ref{sec:hil} reviews the proposed human-in-the-loop system. Then the learning algorithm will be explained in Section \ref{sec:learning}. Sections \ref{sec:dataset}, \ref{sec:feature} and \ref{sec:exper} explain the GLAID dataset, feature extraction and matching, and experimental results respectively. Finally, we conclude in Section \ref{sec:concl}. 
+
+

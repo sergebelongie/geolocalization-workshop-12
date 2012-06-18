@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{Crandall09}
+D.~J. Crandall, L.~Backstrom, D.~Huttenlocher, and J.~Kleinberg.
+\newblock Mapping the world's photos.
+\newblock In {\em WWW}, 2009.
+
+\bibitem{Hays08}
+J.~Hays and A.~Efros.
+\newblock Im2gps: estimating geographic information from a single image.
+\newblock In {\em CVPR}, 2008.
+
+\bibitem{Li10}
+Yunpeng Li, Noah Snavely, and Daniel~P. Huttenlocher.
+\newblock Location recognition using prioritized feature matching.
+\newblock In {\em Proceedings of the 11th European conference on Computer
+  vision: Part II}, ECCV'10, pages 791--804, Berlin, Heidelberg, 2010.
+  Springer-Verlag.
+
+\bibitem{Schindler07}
+Grant Schindler, Matthew Brown, and Richard Szeliski.
+\newblock City-scale location recognition.
+\newblock In {\em CVPR}, 2007.
+
+\bibitem{Torralba08}
+A.~Torralba, R.~Fergus, and W.~T. Freeman.
+\newblock 80 million tiny images: A large data set for nonparametric object and
+  scene recognition.
+\newblock {\em PAMI}, 2008.
+
+\bibitem{Xiao10}
+Jianxiong Xiao, James Hays, Krista~A. Ehinger, Aude Oliva, and Antonio
+  Torralba.
+\newblock Sun database: Large-scale scene recognition from abbey to zoo.
+\newblock In {\em CVPR}, pages 3485--3492, 2010.
+
+\bibitem{RoshanZamir10}
+A.~Roshan Zamir and M.~Shah.
+\newblock Accurate image localization based on google maps street view.
+\newblock In {\em ECCV}, 2010.
+
+\end{thebibliography}
